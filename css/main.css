@@ -12,11 +12,14 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #01d7de;
   font-size: 1em;
   line-height: 1.4;
 }
+body {
+  background-color: #000000;
 
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -33,7 +36,7 @@ html {
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: #000000;
   text-shadow: none;
 }
 
