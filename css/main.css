@@ -14,10 +14,10 @@ tr {
   text-align: center;
 }
 ul {
-  text-align: unset;
+  text-align: left;
 }
 li {
-  text-align: unset;
+  text-align: left;
 }
 .name {
   text-align: center;
